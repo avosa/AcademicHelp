@@ -1,6 +1,6 @@
 # Academic Help
 
-Building a platform where students will easily network and get solutions to their needs
+Building a platform where students will easily network and get solutions to their needs. Click [here](http://webstera.pythonanywhere.com/) to view live demo
 
 ## Sample screenshots of the system
 
