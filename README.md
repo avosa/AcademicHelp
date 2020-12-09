@@ -6,24 +6,24 @@ Building a platform where students will easily network and get solutions to thei
 
 ## Create Acount section
 
-![](/flaskblog/static/images/1.png)
+![](/app/static/images/1.png)
 
 ## Signin section
 
-![](/flaskblog/static/images/2.png)
+![](/app/static/images/2.png)
 
 ## Forgort Password section
 
-![](/flaskblog/static/images/3.png)
+![](/app/static/images/3.png)
 
 ## Profile Section
 
-![](/flaskblog/static/images/4.png)
+![](/app/static/images/4.png)
 
 ## Create Post section
 
-![](/flaskblog/static/images/5.png)
+![](/app/static/images/5.png)
 
 ## Student Posts Section
 
-![](/flaskblog/static/images/6.png)
+![](/app/static/images/6.png)
