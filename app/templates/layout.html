@@ -37,7 +37,7 @@
                 <a class="nav-item nav-link" href="{{ url_for('users.logout') }}">logout</a>
               {% else %}
                 <a class="nav-item nav-link" href="{{ url_for('users.login') }}">Login</a>
-                <a class="nav-item nav-link" href="{{ url_for('users.register') }}">Create Account</a>
+                <a class="nav-item nav-link" href="{{ url_for('users.register') }}">Signup</a>
               {% endif %}
             </div>
           </div>
@@ -60,7 +60,7 @@
         </div>
         <div class="col-md-4">
           <div class="content-section">
-            <h3>Category</h3>
+            <h3>Categories</h3>
             <p class='text-muted'>
               <ul class="list-group">
                 <a class="list-group-item list-group-item-light" href="{{ url_for('posts.category_posts', category =1) }}">Research Proposals and Theses</a>
